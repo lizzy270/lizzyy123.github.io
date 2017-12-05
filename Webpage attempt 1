@@ -1,0 +1,34 @@
+  <!DOCTYPE html>
+  <html>
+  
+    <head>
+      <title>Liz's Web</title>
+      <link rel="stylessheet" href="style.css">
+    </head>
+    
+    <body>
+    
+      <h1>Liz's Webpage</h1>
+    <p>Hi, I'm Liz. I'm a Junior at High Tech High School.</P>
+    <a> href="https://www.google.com/">Google</a>
+    
+    <img src="http://cdn1-www.dogtime.com/assets/uploads/gallery/korean-jindo-dog-breed-pictures/puppy-1_680-453.jpg">
+    
+    </body>
+    
+    <h3>Top Favorite Foods</h3>
+    
+      <ul>
+        <li>Pizza</li>
+        <li>Fries</li>
+        <li>Pasta</li>
+      </ul>
+    
+    <h3>To Do List</h3>
+      <ol>
+        <li>Homework</li>
+        <li>Clean House</li>
+        <li>Tutor Des</li>
+      <ol>
+      
+</html>
